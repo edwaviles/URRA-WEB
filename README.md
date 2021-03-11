@@ -1,11 +1,11 @@
 # URRA-WEB
 
-Prueba de contratación URRA.
-Nombre: Edwin Ernesto Aviles Rivera
-
-Pasos para la implementación:
-1: Descargar el proyecto de este repositorio.
-2: Ejecutar "npm install" para instalar los paquetes.
-2: Ejectuar "ionic serve" para visualizar el proyecto en el navegador.
+Prueba de contratación URRA.<br>
+Nombre: Edwin Ernesto Aviles Rivera<br>
+<br>
+Pasos para la implementación:<br>
+1: Descargar el proyecto de este repositorio.<br>
+2: Ejecutar "npm install" para instalar los paquetes.<br>
+2: Ejectuar "ionic serve" para visualizar el proyecto en el navegador.<br>
 
 Saludos.
